@@ -1,0 +1,5 @@
+output
+ignored
+phone.db
+phone.db-shm
+phone.db-wal
